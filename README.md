@@ -1,12 +1,12 @@
 
- 📁 FILE MANAGEMENT SYSTEM
+# 📁 FILE MANAGEMENT SYSTEM
 
  📌 Project Overview
 This project is a desktop-based File Management System developed using Python and Tkinter. It offers a simple graphical interface that allows users to manage files easily through different file operations such as creating, reading, editing, renaming, deleting, and viewing files. The application also maintains file permissions and stores all files inside a dedicated folder automatically created on the Desktop.
 
 
 
- ⚙️ Main Features
+ # ⚙️ Main Features
 - Create and manage text files
 - Read and display file contents
 - Write data using append or overwrite modes
@@ -18,7 +18,7 @@ This project is a desktop-based File Management System developed using Python an
 
 
 
- 📋 Functional Requirements
+ # 📋 Functional Requirements
 - Users can create new files
 - Users can open and read saved files
 - Users can edit and save file data
@@ -30,7 +30,7 @@ This project is a desktop-based File Management System developed using Python an
 
 
 
- 🛠️ Technologies & Tools
+ # 🛠️ Technologies & Tools
 - Python Programming Language
 - Tkinter GUI Library
 - OS Module for file operations
@@ -40,7 +40,7 @@ This project is a desktop-based File Management System developed using Python an
 
 
 
- 📂 File Types Used
+# 📂 File Types Used
 - `.py` → Python source files
 - `.txt` → Text files created by users
 - `.meta` → Permission information files
@@ -48,7 +48,7 @@ This project is a desktop-based File Management System developed using Python an
 
 
 
- ▶️ Running the Project
+# ▶️ Running the Project
 
 🚀 Method 1: Executable Version
 1. Open the `dist` or `Release` folder
@@ -59,7 +59,7 @@ This project is a desktop-based File Management System developed using Python an
 
 
 
-💻 Method 2: Source Code
+# 💻 Method 2: Source Code
 1. Install Python on your system
 2. Install Pillow library:
 
