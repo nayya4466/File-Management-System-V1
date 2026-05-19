@@ -70,12 +70,15 @@ Bash
 python main.py
 
 # 🏗️ Build Details
+
 Executable file generated using PyInstaller
 Standalone desktop application
 Can run independently on Windows systems
 
 # 📥 Download Instructions
+
 # 📂 Download Source Code
+
 Open the repository page
 Click the green Code button
 Select Download ZIP
@@ -83,15 +86,20 @@ Extract files on your computer
 Open project in VS Code or any IDE
 
 # 🚀 Download Executable Version
+
 Open the Releases section
 Download latest release version
 Download main.exe
 Run the executable file directly
 ✔ No IDE or Python setup needed
 ✔ Standalone Windows application
+
 # 🎯 Project Objective
+
 The purpose of this project is to demonstrate concepts of file handling, GUI application development, and basic operating system functionalities using Python.
+
 # 📌 Academic Submission
+ 
 This project includes:
 Complete source code
 GUI-based application
@@ -102,6 +110,7 @@ System design and documentation
 Version 1.0
 
 # 👩‍💻 Team Members
+
 Nayab Arshad
 Sadia Naveed
 Zahra Rehman
